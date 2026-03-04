@@ -12,7 +12,7 @@ From a systems perspective, this project treats financial markets as **stochasti
 * **Global Safe-Haven Signal:** Gold Spot Prices (10-year historical data).
 * **Environmental Perception:** Geopolitical sentiment via Google Trends (15-word category analysis).
 
-## Technical Implementation (The "Jayson" Part)
+## Technical Implementation
 To ensure academic rigor and meet course requirements, the following technical constraints were implemented:
 
 * [cite_start]**Target Locking:** Predicted target is defined as **Next-Day Log Returns** to ensure data stationarity[cite: 50, 89].
