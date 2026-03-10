@@ -20,18 +20,11 @@ By combining these signals, the project explores whether multimodal data can imp
 ---
 # Quick Start
 
-Clone the repository:
+Clone the repository: git clone https://github.com/Jason-lab1126/multimodal-market-volatility-forecasting cd multimodal-market-volatility-forecasting
 
-git clone https://github.com/Jason-lab1126/multimodal-market-volatility-forecasting
-cd multimodal-market-volatility-forecasting
+Install dependencies: pip install -r requirements.txt
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the app:
-
-streamlit run app.py
+Run the app: streamlit run app.py
 
 ---
 # Technical Implementation
