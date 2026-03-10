@@ -3,6 +3,10 @@
 **Author:** Jayson Xu  
 **Course Related:** EE 344: Data-Driven Modeling and Machine Learning
 
+## Live Demo
+
+[Open the Streamlit App](https://jayson-ml-demo-tech-return-predictor.streamlit.app/)
+
 ---
 
 # Project Overview
