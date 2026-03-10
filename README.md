@@ -18,7 +18,22 @@ From a systems perspective, financial markets can be interpreted as **stochastic
 By combining these signals, the project explores whether multimodal data can improve short-term return prediction in financial markets.
 
 ---
+# Quick Start
 
+Clone the repository:
+
+git clone https://github.com/yourusername/multimodal-market-volatility-forecasting.git
+cd multimodal-market-volatility-forecasting
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the app:
+
+streamlit run app.py
+
+---
 # Technical Implementation
 
 To ensure methodological rigor and avoid common pitfalls in financial forecasting, the following constraints were applied:
