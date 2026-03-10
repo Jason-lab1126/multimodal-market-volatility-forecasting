@@ -1,7 +1,7 @@
 # Multimodal Market Volatility Forecasting & Cross-Market Correlation
 
 **Author:** Jayson Xu  
-**Course:** EE 344: Machine Learning & Data Science (Winter 2026)
+**Course:** EE 344: Data-Driven Modeling and Machine Learning
 
 ---
 
