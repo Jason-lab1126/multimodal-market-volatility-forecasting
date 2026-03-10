@@ -22,7 +22,7 @@ By combining these signals, the project explores whether multimodal data can imp
 
 Clone the repository:
 
-git clone https://github.com/yourusername/multimodal-market-volatility-forecasting.git
+git clone https://github.com/Jason-lab1126/multimodal-market-volatility-forecasting
 cd multimodal-market-volatility-forecasting
 
 Install dependencies:
